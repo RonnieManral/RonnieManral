@@ -8,7 +8,7 @@
 <img align="right" width="400" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/coder.gif">
 - 🔭 I’m currently working on **E-shop application**
 
-- 🌱 I’m currently learning **Django Rest API Framwork**
+- 🌱 I’m currently learning **Django Rest API Framework**
 - 👯 I’m looking to collaborate on **..Anyone who loves working with python**
 - 💬 Ask me about **Web Development**
 
