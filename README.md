@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronniemanral&label=Profile%20views&color=0e75b6&style=flat" alt="ronniemanral" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronniemanral" alt="ronniemanral" /></a> </p>
-
+<img align="right" width="400" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/coder.gif">
 - 🔭 I’m currently working on **E-shop application**
 
 - 🌱 I’m currently learning **Django Rest API Framwork**
